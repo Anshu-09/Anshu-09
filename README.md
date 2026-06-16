@@ -6,9 +6,17 @@
 
 *2nd-year B.Tech CSE @ KIIT · Building scalable systems and real-world products*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anshuman-giri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anshu-09)
-[![Email](https://img.shields.io/badge/Email-EA580C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshumangiriofficial@gmail.com)
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/anshuman-giri">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
+</a>
+<a href="https://github.com/Anshu-09">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>
+</a>
+<a href="mailto:anshumangiriofficial@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28"/>
+</a>
 
 </div>
 
@@ -31,52 +39,52 @@ I enjoy solving real-world problems through efficient APIs, clean architecture, 
 #### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
 </p>
 
 #### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
 </p>
 
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
 </p>
 
 #### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
 </p>
 
 #### Tools & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/>
 </p>
 
 ---
 
 ### Featured Projects
 
-| Project                                       | Description                                                                                   | Stack                            |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------- |
-| [**Bug Track**](https://github.com/Anshu-09)  | Collaborative bug tracking system with full issue lifecycle, reducing miscommunication by 60% | Spring Boot · React · PostgreSQL |
-| [**SmartBunks**](https://github.com/Anshu-09) | Attendance automation system saving 5–10 minutes per session with persistent user data        | Flask · MongoDB                  |
-| [**KiitPost**](https://github.com/Anshu-09)   | Placement portal with authentication & bookmarking, reducing manual effort by 70%             | React · Spring Boot · PostgreSQL |
-
----
-
-### Experience
-
-**App & Content Development Intern — Schrodinger Ideas Pvt. Ltd.**
-
-* 📊 Built dashboards reducing lookup time by **35%**
-* ⚙️ Improved workflows → **15% efficiency gain**
-* 📈 Boosted engagement via analytics-driven strategies
+| Project        | Description                                                        | Stack                            |
+| -------------- | ------------------------------------------------------------------ | -------------------------------- |
+| **Bug Track**  | Collaborative bug tracking system reducing miscommunication by 60% | Spring Boot · React · PostgreSQL |
+| **SmartBunks** | Attendance automation saving 5–10 minutes per session              | Flask · MongoDB                  |
+| **KiitPost**   | Placement portal reducing manual effort by 70%                     | React · Spring Boot · PostgreSQL |
 
 ---
 
