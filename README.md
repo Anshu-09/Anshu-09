@@ -1,18 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Anshuman%20Giri&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Backend%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%2FML%20Explorer&descSize=14&descAlignY=85&descColor=aaaaaa" width="100%"/>
-
+  <h1 align="center">Hi there, I'm Anshuman Giri 👋</h1>
+  <h3 align="center">
+    <a href="https://github.com/Anshu-09">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Full-Stack+Engineer;AI%2FML+Explorer" alt="Typing SVG" />
+    </a>
+  </h3>
+  <p align="center"><i>Building scalable systems and shipping impactful products.</i></p>
+  <br/>
 </div>
 
-<br/>
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-giri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshu-09)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumangiriofficial@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](mailto:anshumangiriofficial@gmail.com)
-
+  <a href="https://linkedin.com/in/anshuman-giri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Anshu-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:anshumangiriofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
 ---
