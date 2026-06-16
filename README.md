@@ -1,108 +1,99 @@
-# 👋 Hi, I'm Anshuman Giri
+<div align="center">
 
-💻 **Full Stack Developer | Backend-Focused | AI/ML Explorer**
-🚀 Building scalable web apps & solving real-world problems
+# Anshuman Giri
 
----
+**Backend Developer · Full Stack Builder · AI/ML Explorer**
 
-## 🔥 About Me
+*2nd-year B.Tech CSE @ KIIT · Building scalable systems and real-world products*
 
-* 🎓 B.Tech CSE @ KIIT University (2023–2027)
-* 💡 Strong focus on **Backend Systems & API Design**
-* 🧠 Exploring **AI/ML + SaaS product building**
-* 📈 Passionate about building **efficient, scalable solutions**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anshuman-giri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anshu-09)
+[![Email](https://img.shields.io/badge/Email-EA580C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshumangiriofficial@gmail.com)
 
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-`Java` `Python` `C`
-
-### 🧠 Backend
-
-`Spring Boot` `Node.js` `Express.js` `REST APIs` `JWT`
-
-### 🌐 Frontend
-
-`React.js` `Next.js` `HTML` `CSS` `JavaScript`
-
-### 🗄️ Databases
-
-`PostgreSQL` `MongoDB`
-
-### ☁️ Cloud & Tools
-
-`AWS EC2` `Git` `Postman` `Jira` `Google Analytics`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### About Me
 
-### 🐞 Bug Track
+I am a Computer Science student at KIIT focused on backend engineering, scalable system design, and building impactful full-stack applications.
 
-> Full-stack bug tracking system for teams
+I enjoy solving real-world problems through efficient APIs, clean architecture, and performance-focused systems.
 
-* ⚡ Reduced issue miscommunication by **60%**
-* 🔄 Full issue lifecycle: reporting → assignment → resolution
-* 🔍 Smart search & priority-based sorting
-* 🧩 Built with: `Spring Boot` `React` `PostgreSQL`
-
----
-
-### 📊 SmartBunks
-
-> Attendance automation system
-
-* ⏱️ Saved **5–10 minutes per session** for users
-* 💾 MongoDB-based persistence for repeat usage
-* ⚡ Optimized APIs with **150–300ms response time**
-* 🧩 Built with: `Flask` `MongoDB`
+* 🔧 Currently building **Whypper** — AI-powered coding problem generator
+* 🧠 Exploring **Machine Learning, NLP & SaaS systems**
+* 📍 Jharkhand, India
 
 ---
 
-### 🎓 KiitPost
+### Tech Stack
 
-> Placement & opportunity portal
+#### Languages
 
-* 📉 Reduced manual sharing effort by **70%**
-* 🔐 Secure authentication with JWT
-* 🔖 Bookmark feature increased engagement by **40%**
-* 🧩 Built with: `React` `Spring Boot` `PostgreSQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+#### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+#### Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,postman" />
+</p>
 
 ---
 
-## 💼 Experience
+### Featured Projects
 
-### App & Content Development Intern
+| Project                                       | Description                                                                                   | Stack                            |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------- |
+| [**Bug Track**](https://github.com/Anshu-09)  | Collaborative bug tracking system with full issue lifecycle, reducing miscommunication by 60% | Spring Boot · React · PostgreSQL |
+| [**SmartBunks**](https://github.com/Anshu-09) | Attendance automation system saving 5–10 minutes per session with persistent user data        | Flask · MongoDB                  |
+| [**KiitPost**](https://github.com/Anshu-09)   | Placement portal with authentication & bookmarking, reducing manual effort by 70%             | React · Spring Boot · PostgreSQL |
 
-**Schrodinger Ideas Pvt. Ltd.**
+---
+
+### Experience
+
+**App & Content Development Intern — Schrodinger Ideas Pvt. Ltd.**
 
 * 📊 Built dashboards reducing lookup time by **35%**
-* ⚙️ Optimized content pipeline → **15% efficiency gain**
-* 📈 Improved engagement with analytics-driven strategies
+* ⚙️ Improved workflows → **15% efficiency gain**
+* 📈 Boosted engagement via analytics-driven strategies
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Anshu-09\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu-09\&layout=compact\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Anshu-09\&show_icons=true\&theme=dark\&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu-09\&layout=compact\&theme=dark\&hide_border=true)
 
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/anshuman-giri
-* 📧 Email: [anshumangiriofficial@gmail.com](mailto:anshumangiriofficial@gmail.com)
+</div>
 
 ---
 
-## ⚡ What I'm Building Next
+<div align="center">
 
-* 🤖 AI-powered coding problem generator (Whypper)
-* 🚀 Scalable SaaS products for real-world use
+*Open to internships, backend roles, and building impactful products 🚀*
 
----
+</div>
